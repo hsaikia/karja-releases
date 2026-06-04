@@ -1,6 +1,6 @@
 # Karja — Releases
 
-Public download repository for **[Karja](https://karja.online)**, a local-first
+Public download repository for **[Karja](https://karja.app)**, a local-first
 AI productivity superapp.
 
 This repository hosts the **distributable installers** for Karja. It contains
@@ -11,12 +11,12 @@ published automatically from the private development repository.
 
 Get the latest build for macOS, Windows, or Linux:
 
-- **Website:** https://karja.online/downloads
+- **Website:** https://karja.app/downloads
 - **Releases:** https://github.com/hsaikia/karja-releases/releases
 
 During the public beta the builds are **unsigned**, so your operating system may
 warn you the first time you open the app. The
-[downloads page](https://karja.online/downloads) explains how to get past the
+[downloads page](https://karja.app/downloads) explains how to get past the
 warning on each platform.
 
 ## License
