@@ -1,109 +1,22 @@
-Karja — End-User License Agreement (EULA)
+# Karja — End-User License Agreement (EULA)
 
-Last updated: 4 June 2026
+Karja is proprietary software. © 2026 Himangshu Saikia. All rights reserved.
 
-This End-User License Agreement ("Agreement") is a legal agreement between you
-("you" or "Licensee") and Himangshu Saikia ("Licensor") governing your use of
-the Karja software application together with any accompanying installers,
-binaries, and documentation made available through this repository
-(collectively, the "Software").
+The End-User License Agreement that governs your use of Karja is published as a
+single **bilingual** document (German first, then English) at the canonical,
+always-current location:
 
-By downloading, installing, or using the Software, you agree to be bound by this
-Agreement. If you do not agree, do not download, install, or use the Software.
+    https://karja.app/terms
 
-1. License grant
-   Subject to your compliance with this Agreement, Licensor grants you a
-   limited, non-exclusive, non-transferable, non-sublicensable, revocable
-   license to download, install, and use the Software on devices that you own or
-   control, for your personal or internal business purposes.
+The related legal documents referenced by the EULA are likewise published — each
+as one bilingual (German/English) page:
 
-2. Beta software
-   The Software is currently distributed as a pre-release ("beta") version,
-   provided free of charge for evaluation and testing. Beta builds are unsigned,
-   may be unstable or incomplete, and may change or be discontinued at any time.
-   They are not intended for production-critical use. Features, pricing, and
-   licensing terms for future versions may differ.
+    https://karja.app/privacy     Datenschutz / Privacy Notice
+    https://karja.app/refund      Widerruf / Refund Policy
+    https://karja.app/impressum   Impressum (§ 5 DDG)
 
-3. Restrictions
-   You may not, and may not permit any third party to:
-   (a) sell, rent, lease, lend, redistribute, sublicense, or otherwise make the
-       Software available to any third party;
-   (b) reverse engineer, decompile, or disassemble the Software, or attempt to
-       derive its source code, except to the extent such activity is expressly
-       permitted by applicable law notwithstanding this limitation;
-   (c) modify, adapt, or create derivative works of the Software;
-   (d) remove, alter, or obscure any proprietary notices on or in the Software;
-   (e) circumvent, disable, or interfere with any license, entitlement, or
-       security mechanism of the Software.
+The web pages are the authoritative versions; this file is only a pointer so the
+text is never maintained in two places.
 
-4. Ownership
-   The Software is licensed, not sold. Licensor retains all right, title, and
-   interest in and to the Software, including all intellectual property rights.
-   No source code is provided under this Agreement. All rights not expressly
-   granted to you are reserved by Licensor.
-
-5. Third-party components
-   The Software includes third-party open-source components that are licensed
-   under their own terms, set out in the third-party license notices distributed
-   with the Software. Nothing in this Agreement limits your rights under, or
-   grants you rights that supersede, the terms of any such open-source license.
-
-6. Privacy and data
-   Karja is designed to be local-first: it processes your documents and data on
-   your own device and is not designed to transmit your documents to Licensor or
-   to any third party. The only personal data Licensor collects is the contact
-   information (such as an email address) that you voluntarily provide, for
-   example when obtaining a download or a license key.
-
-7. No warranty
-   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
-   "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS,
-   IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF
-   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. This
-   applies in particular because the Software is provided free of charge as a
-   beta version. Your statutory rights as a consumer remain unaffected.
-
-8. Limitation of liability
-   To the extent permitted by applicable law, Licensor shall not be liable for
-   any indirect, incidental, special, consequential, or punitive damages, or for
-   any loss of data, profits, or business, arising out of or related to your use
-   of or inability to use the Software.
-
-   Nothing in this Agreement excludes or limits Licensor's liability for: (a)
-   death or personal injury caused by negligence; (b) intent (Vorsatz) or gross
-   negligence (grobe Fahrlässigkeit); (c) liability under the German Product
-   Liability Act (Produkthaftungsgesetz); or (d) any other liability that cannot
-   be excluded or limited under applicable mandatory law. In cases of slight
-   negligence, Licensor shall be liable only for breach of a material
-   contractual obligation (Kardinalpflicht), and such liability shall be limited
-   to the foreseeable damage typical for this type of contract.
-
-9. Term and termination
-   This Agreement is effective until terminated. It terminates automatically if
-   you breach any of its terms. Upon termination, you must cease all use of the
-   Software and delete all copies in your possession. Sections 3–8 and 10–12
-   survive termination.
-
-10. Updates
-    Licensor is under no obligation to provide updates, upgrades, or support for
-    the Software. Any updates that are provided are governed by this Agreement
-    unless accompanied by separate terms.
-
-11. Governing law and jurisdiction
-    This Agreement is governed by the laws of the Federal Republic of Germany,
-    excluding its conflict-of-laws rules and the United Nations Convention on
-    Contracts for the International Sale of Goods (CISG). If you are a consumer,
-    you also enjoy the protection of any mandatory provisions of the law of the
-    country in which you reside. The place of jurisdiction, to the extent
-    permitted by law, is Germany.
-
-12. Severability
-    If any provision of this Agreement is held to be unenforceable or invalid,
-    that provision will be limited or eliminated to the minimum extent necessary,
-    and the remaining provisions will remain in full force and effect.
-
-13. Contact
-    Questions about this Agreement may be directed to the Licensor, Himangshu
-    Saikia, via https://karja.app.
-
-© 2026 Himangshu Saikia. All rights reserved.
+Licensor: Himangshu Saikia · Email: himangshu.saikia.iitg@gmail.com
+Postal address: see the Impressum at https://karja.app/impressum

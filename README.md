@@ -14,9 +14,9 @@ Get the latest build for macOS, Windows, or Linux:
 - **Website:** https://karja.app/downloads
 - **Releases:** https://github.com/hsaikia/karja-releases/releases
 
-During the public beta the builds are **unsigned**, so your operating system may
-warn you the first time you open the app. The
-[downloads page](https://karja.app/downloads) explains how to get past the
+The macOS build is **signed and notarized**. The Windows and Linux installers
+are **unsigned**, so those systems may warn you the first time you open the app.
+The [downloads page](https://karja.app/downloads) explains how to get past the
 warning on each platform.
 
 ## License
